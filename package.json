@@ -7,11 +7,10 @@
     "start": "nodemon src/index.js",
     "test": "jest --watchAll"
   },
-  "dependencies": {
-    "jest": "26.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "1.18.4",
+    "jest": "26.0.1"
   },
   "keywords": []
 }
